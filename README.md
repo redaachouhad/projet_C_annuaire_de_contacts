@@ -12,9 +12,9 @@ Pour la compilation :
 1) Tout d'abord , vous devez accedez au repertoire de fil_rouge en utlisant un cd dans le terminal
     ( exemple : cd ...../projet_C_fil_rouge/filrouge/)
    
-2)-Puis, utilisez la commande make dans le terminal.
+2) Puis, utilisez la commande make dans le terminal.
 
-3)- Ensuite; pour tester les programme par les tests ,Ecrit dans le terminal:
+3) Ensuite; pour tester les programme par les tests ,Ecrit dans le terminal:
 
 cd tests/
 
