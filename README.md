@@ -21,12 +21,12 @@ cd tests/
   et Enfin pour afficher le résultat de cha que test sur le terminal; on tape
    achaque fois  dans le terminal
    + ./directory-01-test
-   + 	./directory-02-test
+   + ./directory-02-test
    + ./directory-03-test
-   	+ ./directory-04-test
-   	+ ./directory-05-test
-   	+ ./directory-06-test
-   	+ ./directory-07-test           
+   + ./directory-04-test
+   + ./directory-05-test
+   + ./directory-06-test
+   + ./directory-07-test           
 #
 
 
